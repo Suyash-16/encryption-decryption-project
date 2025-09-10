@@ -1,0 +1,26 @@
+# editor settings
+.vscode/
+.idea/
+
+# build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# logs and temp files
+*.log
+*.tmp
+
+# secrets
+*.env
+*.key
+*.pem
+*.crt
